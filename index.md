@@ -1,4 +1,10 @@
-<!DOCTYPE html>
+---
+layout: home
+title: Chuan Liu
+---
+# Welcome to my academic homepage!
+
+Welcome to my site.
 <html lang="en">
 <head>
   <meta charset="UTF-8">
