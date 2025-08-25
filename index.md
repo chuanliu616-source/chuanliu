@@ -34,15 +34,11 @@ I am a Ph.D. Candidate at Western University. My research examines **languages a
 - Curriculum studies  
 - Technology integration  
 
-> See the full overview and current projects on the **[Research](research.html)** page.
-
 ---
 
 ## Recent news
 
-- **Aug 2025:** _(Add most recent publication, award, grant, or talk here.)_  
-- **Jun 2025:** _(Example)_ Presented at **Conference Name** on **topic**.  
-- **Mar 2025:** _(Example)_ Paper accepted at *Journal Name*.
+- to be updated
 
 ---
 
