@@ -7,7 +7,7 @@ description: "Chuan Liu — Ph.D. Candidate in Education at Western University. 
 # Chuan Liu
 
 <!-- Navigation menu -->
-<nav style="margin: 1rem 0; font-size: 1.25rem; font-weight: 500;">
+<nav style="margin: 1rem 0; font-size: 1.50rem; font-weight: 500;">
   <a href="index.html">Home</a> |
   <a href="research.html">Research</a> |
   <a href="teaching.html">Teaching</a> |
