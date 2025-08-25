@@ -49,4 +49,4 @@ I am a Ph.D. Candidate at Western University. My research examines **languages a
 
 ## Contact me
 
-If you’re interested in collaborating, please **[get in touch](contact.html)**.
+If you’re interested in collaborating, please get in touch.
