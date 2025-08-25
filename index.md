@@ -17,7 +17,7 @@ description: "Chuan Liu — Ph.D. Candidate in Education at Western University. 
 </nav>
 
 **Ph.D. Candidate**, Faculty of Education, Western University  
-Email: [cliu783@uwo.ca](mailto:cliu783@uwo.ca) · [Google Scholar](#) · [ORCID](#)
+Email: [cliu783@uwo.ca](mailto:cliu783@uwo.ca) · [Google Scholar](https://scholar.google.com/citations?user=x8g9XdEAAAAJ&hl=en) · [Linkedin](https://www.linkedin.com/in/chuan-liu-39a119199/)
 
 <img src="your-photo.JPG" alt="Portrait of Chuan Liu" style="float:left; margin:0 1.25rem 1rem 0; width:132px; border-radius:66px; border:2px solid #eee;" />
 
