@@ -1,33 +1,53 @@
 ---
 layout: home
-title: Chuan Liu
+title: "Chuan Liu"
+description: "Chuan Liu — Ph.D. Candidate in Education at Western University. Research in languages and literacies, curriculum studies, and technology integration."
 ---
 
-# Welcome to my academic homepage!
+# Chuan Liu
 
-![Chuan Liu portrait](your-photo.jpg){: style="float:left; margin-right:28px; width:120px; border-radius:60px; border:2px solid #eee;" }
+<!-- Navigation menu -->
+<nav style="margin: 1rem 0; font-size: 1.05rem;">
+  <a href="index.html">Home</a> |
+  <a href="research.html">Research</a> |
+  <a href="teaching.html">Teaching</a> |
+  <a href="service.html">Service</a> |
+  <a href="publications.html">Publications</a> |
+  <a href="cv.html">CV</a> |
+  <a href="contact.html">Contact</a>
+</nav>
 
-## Chuan Liu
+**Ph.D. Candidate**, Faculty of Education, Western University  
+Email: [cliu783@uwo.ca](mailto:cliu783@uwo.ca) · [Google Scholar](#) · [ORCID](#) · [CV](cv.html)
 
-**Ph.D. Candidate**  
-Faculty of Education, Western University  
-Email: [cliu783@uwo.ca](mailto:cliu783@uwo.ca)
+<img src="your-photo.jpg" alt="Portrait of Chuan Liu" style="float:left; margin:0 1.25rem 1rem 0; width:132px; border-radius:66px; border:2px solid #eee;" />
 
-**Short bio:**  
-Chuan Liu is a Ph.D. Candidate at Western University, focusing his research on language and literacy, technology integration, and curriculum studies. Prior to his graduate studies, Chuan worked as a language teacher, curriculum manager, and school director.
+**Short bio.**  
+I am a Ph.D. Candidate at Western University. My research examines **languages and literacies**, **technology integration**, and **curriculum studies**. Prior to doctoral study, I worked as a language teacher, curriculum manager, and school director. I teach courses and workshops related to literacy development and technology in learning.
 
-![image](https://github.com/user-attachments/assets/3ffcd41a-ef76-4ab1-81ea-fe5044bfc2ef)
+<div style="clear:both"></div>
 
-## Research Interests
+---
 
-- Languages and literacies
-- Curriculum studies
-- Technology integration
+## Research focus
 
-## Recent News
+- Languages and literacies  
+- Curriculum studies  
+- Technology integration  
 
-> **Latest Update (Aug 2025):** [Replace this with your most recent publication, award, or academic achievement!]
+> See the full overview and current projects on the **[Research](research.html)** page.
 
-## About This Site
+---
 
-Here you can find details about my [research](research.html), [teaching](teaching.html), [service](service.html), and [curriculum vitae](cv.html). Please feel free to [contact me](contact.html) if you have any questions or would like to collaborate.
+## Recent news
+
+- **Aug 2025:** _(Add most recent publication, award, grant, or talk here.)_  
+- **Jun 2025:** _(Example)_ Presented at **Conference Name** on **topic**.  
+- **Mar 2025:** _(Example)_ Paper accepted at *Journal Name*.
+
+---
+
+## About this site
+
+This site shares my **[research](research.html)**, **[teaching](teaching.html)**, **[service](service.html)**, and a downloadable **[curriculum vitae](cv.html)**.  
+If you’re interested in collaborating, please **[get in touch](contact.html)**.
