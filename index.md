@@ -33,16 +33,17 @@
       <img src="your-photo.jpg" alt="Chuan Liu portrait" class="bio-photo">
       <h1 class="main-header">Chuan Liu</h1>
       <div class="info">
-        Professor<br>
-        Department of [Your Department], [Your University]<br>
-        Email: <a href="mailto:your@email.com">your@email.com</a>
+        PH.D. Candidate<br>
+        Faculty of Education, Western University<br>
+        Email: <a href="cliu783@uwo.ca">your@email.com</a>
       </div>
-      <p><b>Short bio:</b> I am a professor in the Department of [Your Department] at [Your University]. My research interests include [your main research areas]. I am passionate about [briefly state your academic focus or philosophy].</p>
+      <p><b>Short bio:</b> Chuan Liu is a Ph.D. Candidate at Western University, focusing his research on language and literacy, technology integration, and curriculum studies. Prior to his graduate studies, Chuan worked as a language teacher, curriculum manager, and school director.<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/3ffcd41a-ef76-4ab1-81ea-fe5044bfc2ef" />
+.</p>
       <h2>Research Interests</h2>
       <ul>
-        <li>Area 1 (e.g., Artificial Intelligence, Data Science, etc.)</li>
-        <li>Area 2</li>
-        <li>Area 3</li>
+        <li>languages and literacies</li>
+        <li>curriculum studies</li>
+        <li>technology integration</li>
       </ul>
       <h2>Recent News</h2>
       <div class="update">
