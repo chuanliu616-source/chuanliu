@@ -20,7 +20,7 @@ description: "Chuan Liu — Ph.D. Candidate in Education at Western University. 
 **Ph.D. Candidate**, Faculty of Education, Western University  
 Email: [cliu783@uwo.ca](mailto:cliu783@uwo.ca) · [Google Scholar](#) · [ORCID](#) · [CV](cv.html)
 
-<img src="your-photo.jpg" alt="Portrait of Chuan Liu" style="float:left; margin:0 1.25rem 1rem 0; width:132px; border-radius:66px; border:2px solid #eee;" />
+<img src="your-photo.JPG" alt="Portrait of Chuan Liu" style="float:left; margin:0 1.25rem 1rem 0; width:132px; border-radius:66px; border:2px solid #eee;" />
 
 **Short bio.**  
 I am a Ph.D. Candidate at Western University. My research examines **languages and literacies**, **technology integration**, and **curriculum studies**. Prior to doctoral study, I worked as a language teacher, curriculum manager, and school director. I teach courses and workshops related to literacy education and technology in learning.
